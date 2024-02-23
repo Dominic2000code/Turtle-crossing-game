@@ -25,7 +25,7 @@ Implements the Scoreboard class, which displays the current level of the game. I
 
 ### Dependencies
 
-- Python 3.x
+- Python 3.8
 - Turtle module
 
 ### Running the Game
